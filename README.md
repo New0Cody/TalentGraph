@@ -383,7 +383,7 @@ The response contains ranked candidates with:
 ## Demo
 
 **Hosted Application:**  
-_Add hosted demo URL here._
+[Open TalentGraph](https://talentgraph-delta.vercel.app)
 
 **Screen Recording:**  
 _Add screen recording URL here._
