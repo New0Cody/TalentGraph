@@ -406,7 +406,6 @@ unavailable.
 
 ## Future Improvements
 
-- Interactive graph visualization
 - More advanced skill similarity
 - Candidate profile pages
 - Candidate comparison
