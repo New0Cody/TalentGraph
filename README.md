@@ -404,24 +404,6 @@ unavailable.
 
 ---
 
-## Security
-
-Database credentials are stored in environment variables.
-
-The following are excluded from Git:
-
-```text
-.env
-.venv/
-venv/
-node_modules/
-__pycache__/
-```
-
-No database credentials are committed to the repository.
-
----
-
 ## Future Improvements
 
 - Interactive graph visualization
