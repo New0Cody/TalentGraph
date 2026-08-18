@@ -1,0 +1,42 @@
+[
+  {
+    "skill": "TypeScript",
+    "related_to": ["React", "JavaScript"]
+  },
+  {
+    "skill": "JavaScript",
+    "related_to": ["React", "Node.js"]
+  },
+  {
+    "skill": "React",
+    "related_to": ["JavaScript", "TypeScript"]
+  },
+  {
+    "skill": "Python",
+    "related_to": ["Django", "FastAPI"]
+  },
+  {
+    "skill": "Django",
+    "related_to": ["Python"]
+  },
+  {
+    "skill": "FastAPI",
+    "related_to": ["Python"]
+  },
+  {
+    "skill": "Node.js",
+    "related_to": ["JavaScript", "TypeScript"]
+  },
+  {
+    "skill": "PostgreSQL",
+    "related_to": ["SQL"]
+  },
+  {
+    "skill": "MongoDB",
+    "related_to": ["JavaScript"]
+  },
+  {
+    "skill": "AWS",
+    "related_to": ["Docker"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "C001",
+    "name": "Priya Sharma",
+    "experience": 5,
+    "location": "Hyderabad",
+    "skills": ["TypeScript", "Node.js", "AWS"],
+    "projects": [
+      {
+        "name": "ShopEasy",
+        "industry": "E-commerce"
+      }
+    ]
+  },
+  {
+    "id": "C002",
+    "name": "Rahul Kumar",
+    "experience": 4,
+    "location": "Bangalore",
+    "skills": ["JavaScript", "Node.js", "AWS"],
+    "projects": [
+      {
+        "name": "ShopEasy",
+        "industry": "E-commerce"
+      }
+    ]
+  },
+  {
+    "id": "C003",
+    "name": "Ananya Reddy",
+    "experience": 6,
+    "location": "Chennai",
+    "skills": ["Python", "Django", "PostgreSQL"],
+    "projects": [
+      {
+        "name": "Banking Portal",
+        "industry": "FinTech"
+      }
+    ]
+  },
+  {
+    "id": "C004",
+    "name": "Arjun Mehta",
+    "experience": 3,
+    "location": "Pune",
+    "skills": ["React", "JavaScript", "MongoDB"],
+    "projects": [
+      {
+        "name": "ShopKart",
+        "industry": "E-commerce"
+      }
+    ]
+  },
+  {
+    "id": "C005",
+    "name": "Sneha Rao",
+    "experience": 7,
+    "location": "Bangalore",
+    "skills": ["Python", "FastAPI", "AWS"],
+    "projects": [
+      {
+        "name": "HealthStack",
+        "industry": "Healthcare"
+      }
+    ]
+  }
+]
