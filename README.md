@@ -386,7 +386,7 @@ The response contains ranked candidates with:
 [Open TalentGraph](https://talentgraph-delta.vercel.app)
 
 **Screen Recording:**  
-_Add screen recording URL here._
+[Watch the Demo](https://drive.google.com/file/d/1uhQJyZ4kiQ_297v6vzi4MRqzH-eefIIC/view?usp=sharing)
 
 ---
 
